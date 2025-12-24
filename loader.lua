@@ -4,7 +4,7 @@ local placeId = game.PlaceId
 local url = scripts[placeId]
 
 local scripts = {
-    [75992362647444] = "", -- Tap Simulator
+    [75992362647444] = "https://raw.githubusercontent.com/AhmadSabbr/Games/refs/heads/main/TapSimulator.lua", -- Tap Simulator
     [] = ""
 }
 
