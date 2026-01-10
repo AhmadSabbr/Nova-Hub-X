@@ -4,8 +4,7 @@ local HttpService = game:GetService("HttpService")
 local placeId = game.PlaceId
 
 local scripts = {
-    [75992362647444] = "https://raw.githubusercontent.com/AhmadSabbr/Games/refs/heads/main/TapSimulator.lua", -- Tap Simulator
-    [3101667897] = "https://raw.githubusercontent.com/AhmadSabbr/Games/refs/heads/main/LegendsOfSpeed.lua" -- Legends Of Speed
+    [3101667897] = "https://api.luarmor.net/files/v4/loaders/2b3c838d4551b415d1473f217a7887d8.lua" -- Legends Of Speed
 }
 
 local url = scripts[placeId]
