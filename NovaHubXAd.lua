@@ -26,6 +26,7 @@ local CoreGui = game:GetService("CoreGui")
 ModAd.Name = "ModAd"
 ModAd.Parent = CoreGui
 ModAd.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
+ModAd.DisplayOrder = 10 
 
 Main.Name = "Main"
 Main.Parent = ModAd
