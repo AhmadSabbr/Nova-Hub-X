@@ -84,7 +84,7 @@ CloseGuibutton.Size = UDim2.new(0, 25, 0, 25)
 CloseGuibutton.Image = "rbxassetid://132152253205541"
 CloseGuibutton.ImageColor3 = Color3.fromRGB(211, 211, 211)
 
-CloseGuiButton.MouseButton1Click:Connect(function()
+CloseGuibutton.MouseButton1Click:Connect(function()
     ModAd:Destroy()
 end)
 
