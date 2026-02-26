@@ -21,10 +21,10 @@ local UsernameLabel = Instance.new("TextLabel")
 local UIPadding_3 = Instance.new("UIPadding")
 local UsernIDLabel = Instance.new("TextLabel")
 local UIPadding_4 = Instance.new("UIPadding")
-
+local CoreGui = game:GetService("CoreGui")
 
 ModAd.Name = "ModAd"
-ModAd.Parent = game.Players.LocalPlayer:WaitForChild("PlayerGui")
+ModAd.Parent = CoreGui
 ModAd.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
 
 Main.Name = "Main"
