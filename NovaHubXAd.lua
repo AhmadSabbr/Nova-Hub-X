@@ -29,6 +29,7 @@ ModAd.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
 
 Main.Name = "Main"
 Main.Parent = ModAd
+Main.ZIndex = 1
 Main.BackgroundColor3 = Color3.fromRGB(26, 0, 0)
 Main.BackgroundTransparency = 0.200
 Main.BorderColor3 = Color3.fromRGB(0, 0, 0)
